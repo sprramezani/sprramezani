@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://sepehrramezani.ir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Sepehr+Ramezani+Pour;Next.js+%26+React+Native+Specialist;Front-End+Developer" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Sepehr+Ramezani+Pour;Next.js+%26+React+Native+Specialist;Front-End+Developer" alt="Header Typing SVG" />
   </a>
 
   <!-- Social & Contact Badges -->
