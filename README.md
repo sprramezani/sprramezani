@@ -64,7 +64,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ffffff&line=38bdf8&point=ffffff&area_color=0d1117&area=true&hide_border=true&radius=6&custom_title=CONTRIBUTION%20TELEMETRY"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sprramezani&bg_color=0d1117&color=ffffff&line=38bdf8&point=ffffff&area_color=0d1117&area=true&hide_border=true&radius=6&custom_title=CONTRIBUTION%20TELEMETRY"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&radius=6&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="Contribution Telemetry"/>
 </picture>
 
@@ -73,5 +73,5 @@
 ---
 
 <div align="center">
-  <sub><code>&lt;/&gt; powered by Software Office</code></sub>
+  <sub><code>&lt;/&gt; powered by Sepehr</code></sub>
 </div>
