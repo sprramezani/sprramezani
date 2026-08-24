@@ -8,13 +8,10 @@
   <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://sepehrramezani.ir" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=firefox&logoColor=38BDF8" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/sepehr-ramezani-pour/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
     </a>
     <a href="mailto:sepehrramezani088@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
     </a>
   </p>
 
