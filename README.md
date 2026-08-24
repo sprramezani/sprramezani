@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Sepehr Ramezani Pour</h1>
-  <p><strong>Front-End Developer | React/Next & React Native Specialist</strong></p>
+  <p><strong>Front-End Developer | Next & React Native Specialist</strong></p>
 
   <a href="https://sepehrramezani.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
   <a href="https://www.linkedin.com/in/sepehr-ramezani-pour/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
