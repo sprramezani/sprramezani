@@ -13,7 +13,7 @@
 
 ### 01 — whoami
 
-> Hi, I'm **Sepehr** — a Front-End Developer specializing in **React** and **React Native**. I build fast, responsive, and visually polished web and mobile applications, combining clean code with a strong eye for UI/UX to deliver experiences that exceed expectations.
+> Hi, I'm **Sepehr** — a Front-End Developer specializing in **Next** and **React Native**. I build fast, responsive, and visually polished web and mobile applications, combining clean code with a strong eye for UI/UX to deliver experiences that exceed expectations.
 
 ---
 
